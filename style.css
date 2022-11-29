@@ -57,7 +57,7 @@ img {
 h1 {
     color: rgb(20, 247, 20);
     background-color: black;
-    width: 530px;
+    max-width: 530px;
     padding: 5px;
     margin: auto;
     border-radius: 5px;
