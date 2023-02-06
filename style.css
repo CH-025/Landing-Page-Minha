@@ -1,7 +1,7 @@
 @charset "UTF-8" ;
 
 body {
-    height: 101vh;
+    height: 98vh;
     color: black;
     /*background-color: white;
     background-image: url('imagens/wallpaper006.jpg');
@@ -79,6 +79,7 @@ footer {
     justify-content: center;
     gap: 10%;
     margin-top: 60px;
+    margin-bottom: 60px;
     
 }
 
